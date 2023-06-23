@@ -5,7 +5,7 @@
  * followed by a new line
  * @head: stack head
  * @counter: line_number
- * Return: Always 0.
+ * Return: no return
 */
 void f_pchar(stack_t **head, unsigned int counter)
 {
